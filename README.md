@@ -5,7 +5,8 @@
 
 ### 🧠 About Me
 
-🎓 Master's Student in Automated Production Engineering and Artificial Intelligence Systems @ ÉTS Montréal
+🎓 Master's Student in Automated Production Engineering and Artificial Intelligence Systems @ ÉTS Montréal   
+
 🎓 Industrial & IT Engineering Degree  – Morocco  
 🔧 Junior Project Manager (Data & AI – Maintenance & Production) at Morehouse Canada  
 📍 Based in Montreal, open to global remote/hybrid roles  
